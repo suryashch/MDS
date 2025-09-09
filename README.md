@@ -8,3 +8,11 @@ Common git functions -->
     git add : A command to push your changes to the staging area.
     git commit : A command to commit all the staged changes to the branch. 
     git status : A command to view the status of all your git files
+
+Fictional list of software dependencies -->
+    pandas --9.0.5 #of course this is wrong, just for testing purposes.
+    numpy --3.2.2
+    matplotlib --2.4.5
+    
+
+
